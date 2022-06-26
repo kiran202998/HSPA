@@ -1,0 +1,15 @@
+.propertycard
+{
+  margin-top: 5%;
+  margin-right: 2%;
+}
+.shadow-lg{
+  height: auto;
+  width: auto;
+  border: 1px solid gainsboro;
+
+}
+.propImage{
+    height: 150px;
+    width: 200px;
+}
